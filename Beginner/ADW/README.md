@@ -1,4 +1,4 @@
-![](./img/oracle-auto.png){: .center}
+![](./img/oracle-auto.png)
 
 
 
