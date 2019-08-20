@@ -1,4 +1,4 @@
-![](/Users/haje/Documents/workspace/ADWCML/Beginner/ADW/oracle-auto-6288856.png)
+![](Beginner/ADW/images/oracle-auto.png)
 
 
 
