@@ -1,4 +1,4 @@
-![](../images/oracle-auto.png)
+![](./images/oracle-auto.png)
 
 
 
