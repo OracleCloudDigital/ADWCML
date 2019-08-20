@@ -1,12 +1,6 @@
----
-typora-root-url: ../ADW
----
+![oracle-auto](./img/oracle-auto.png){: .center}
 
-![oracle-auto](/images/oracle-auto.png)
-
-
-
-# Hands On 1 : Begin 오라클 클라우드 시작하기
+# 05 - Analytics : 이제 분석을 해볼까요?
 
 ## 실습 소개
 

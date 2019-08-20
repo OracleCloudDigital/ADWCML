@@ -1,12 +1,8 @@
----
-typora-root-url: ../ADW
----
-
-![oracle-auto](/images/oracle-auto.png)
+![oracle-auto](./img/oracle-auto.png){: .center}
 
 
 
-# Hands On 1 : Begin 오라클 클라우드 시작하기
+# 03 - Monitoring ADW : 자율 운영 데이터 웨어하우스가 일을 잘하고 있는지 살펴볼까요?
 
 ## 실습 소개
 

@@ -1,12 +1,8 @@
----
-typora-root-url: ../ADW
----
-
-![oracle-auto](/images/oracle-auto.png)
+![oracle-auto](./img/oracle-auto.png){: .center}
 
 
 
-# Hands On 1 : Begin 오라클 클라우드 시작하기
+# 06 - Machine Learning :  머신러닝 맛을 봅시다.
 
 ## 실습 소개
 
