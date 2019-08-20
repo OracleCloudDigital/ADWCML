@@ -25,11 +25,7 @@
   - 오라클 클라우드 어카운트는 본 세션에 신청하신 이메일로 안내 메일이 전송 되었습니다.
     - **Welcome to ~~** 라는 제목으로 no-reply@oracle.com에서 안내 메일이 발송되었습니다.
 
-# Steps
-
-**Note:** 본 가이드에서 제시하는 화면과 실습하시는 분의 계정 상세정보가 다를 수 있습니다. (예: Compartment Name) 
-
-### **STEP 1:  Oracle Cloud 접속**
+## 따라하기
 
 - 브라우저에서 **[cloud.oracle.com](https://cloud.oracle.com)**로 이동하여 `Sign In`  아이콘을 클릭합니다.
   ![cloud.oracle.com](./img/00-sign-in/01.png)

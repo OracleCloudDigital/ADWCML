@@ -6,8 +6,9 @@
 
 ## 실습 소개
 
-이번 실습은 오라클의 야심작! 자율 운영 데이터 웨어하우스, Autonomous Data Warehouse를 만들어 보겠습니다.
-얼마나 쉽게 만들어지는지 알아볼까요?
+이번 실습은 오라클의 자신 있는 서비스! **자율 운영 데이터 웨어하우스, Autonomous Data Warehouse**를 만들어 보겠습니다.
+
+기존 데이터 웨어하우스와 다르게 얼마나 쉽게 만들어 지는지 알아볼까요?
 
 ## 실습 목표
 
@@ -27,12 +28,16 @@
 ## 사전 준비 사항
 
 - ~~데이터베이스 지식~~
+- 웹 브라우저
+  - Microsoft Internet Explorer 11+
+  - Google Chrome 63+
+  - Mozilla Firefox 52+
+  - Apple Safari 10+
+- 오라클 클라우드 어카운트 (Oracle Cloud Account)
 
-# Steps
+## 따라하기
 
 **Note:** 본 가이드에서 제시하는 화면과 실습하시는 분의 계정 상세정보가 다를 수 있습니다. (예: Compartment Name) 
-
-### **STEP 1:  Oracle Cloud Dashboard**
 
 - 오라클 클라우드 대시보드 화면에서 시작합니다.
   ![cloud.oracle.com](./img/00-sign-in/06.png)
