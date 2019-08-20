@@ -48,18 +48,18 @@ Lab 가이드 원본(영문)을 보시려면 다음 링크를 통해 확인 할 
 ### **STEP 1:  Oracle Cloud 접속**
 
 - 브라우저에서 **[cloud.oracle.com](https://cloud.oracle.com)**로 이동하여 `Sign In`  아이콘을 클릭합니다.
-  ![cloud.oracle.com](/Users/haje/Documents/workspace/ADWCML/Beginner/ADW/img/00-sign-in/01.png)
+  ![cloud.oracle.com](./img/00-sign-in/01.png)
 
-  ![Sign In](/Users/haje/Documents/workspace/ADWCML/Beginner/ADW/img/00-sign-in/02.png)
+  ![Sign In](./img/00-sign-in/02.png)
 
 
 
 
 
 - `Cloud Account Name `을 입력하고, `Next` 클릭합니다.
-  ![](/Users/haje/Documents/workspace/ADWCML/Beginner/ADW/img/00-sign-in/03.png)
+  ![](./img/00-sign-in/03.png)
 
-  ![](/Users/haje/Documents/workspace/ADWCML/Beginner/ADW/img/00-sign-in/04.png)
+  ![](./img/00-sign-in/04.png)
 
 
 
@@ -67,13 +67,13 @@ Lab 가이드 원본(영문)을 보시려면 다음 링크를 통해 확인 할 
 
 - 계정 정보를 입력 후,    `Sign In` 클릭합니다.
 
-  ![](/Users/haje/Documents/workspace/ADWCML/Beginner/ADW/img/00-sign-in/05.png)
+  ![](./img/00-sign-in/05.png)
 
 
 
 - Hello World! 오라클 클라우드에 오신 것을 환영합니다!
 
-  ![](/Users/haje/Documents/workspace/ADWCML/Beginner/ADW/img/00-sign-in/06.png)
+  ![](./img/00-sign-in/06.png)
 
 
 
