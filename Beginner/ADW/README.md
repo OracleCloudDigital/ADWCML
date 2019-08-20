@@ -10,11 +10,11 @@ ADW를 이용하여 쉽게 분석하는 방법과 머신러닝을 어렵지 않�
 ## Agenda
 
 - [Begin : 오라클 클라우드 시작하기](./01-begin.md)
-- Create ADW : 자율 운영 데이터 웨어하우스 만들기
-- Monitoring ADW : 자율 운영 데이터 웨어하우스가 일을 잘하고 있는지 살펴볼까요?
-- Query at ADW : 자율 운영 데이터 웨어하우스에 쿼리 날려 보기
-- Analytics : 이제 분석을 해볼까요?
-- Machine Learning : 머신러닝 맛을 봅시다.
+- [Create ADW : 자율 운영 데이터 웨어하우스 만들기](./02-create-adw.md)
+- [Monitoring ADW : 자율 운영 데이터 웨어하우스가 일을 잘하고 있는지 살펴볼까요?](./03-monitoring.md)
+- [Query at ADW : 자율 운영 데이터 웨어하우스에 쿼리 날려 보기](./04-query-adw.md)
+- [Analytics : 이제 분석을 해볼까요?](./05-analytics.md)
+- [Machine Learning : 머신러닝 맛을 봅시다.](./06-machine-learning.md)
 
 
 
