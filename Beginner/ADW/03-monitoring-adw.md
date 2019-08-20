@@ -32,30 +32,57 @@ Don't worry! Be Happy! 걱정 하지 마세요. 오라클 자율 운영 데이�
 - 생성한 Autonomous Data Warehouse 정보 화면에서 `Service Console 을 클릭합니다.
   ![cloud.oracle.com](./img/04-monitoring-adw/01.png)
 
-  ![Sign In](./img/00-sign-in/02.png)
+
+
+
+
+- Autonomous Data Warehouse Console  화면입니다.
+  
+  - Storage used: 스토리지 사용량을 확인 할 수 있습니다.
+  - CPU utilization
+  - Running SQL statements:
+  - Number of OCPUs allocated:
+  - SQL statement response time (s)
+  
+  
+  
+  ![cloud.oracle.com](./img/04-monitoring-adw/02.png)
+  
+  
 
 
 
 
 
-- `Cloud Account Name `을 입력하고, `Next` 클릭합니다.
-  ![](./img/00-sign-in/03.png)
+- Activity의 Monitor 화면입니다.
 
-  ![](./img/00-sign-in/04.png)
-
+  ![cloud.oracle.com](./img/04-monitoring-adw/03.png)
 
 
 
+- Activity의 Monitored SQL 화면입니다.
 
-- 계정 정보를 입력 후,    `Sign In` 클릭합니다.
-
-  ![](./img/00-sign-in/05.png)
-
+  ![cloud.oracle.com](./img/04-monitoring-adw/04.png)
 
 
-- Hello World! 오라클 클라우드에 오신 것을 환영합니다!
 
-  ![](./img/00-sign-in/06.png)
+
+
+- Administration 화면입니다.
+
+  ![cloud.oracle.com](./img/04-monitoring-adw/05.png)
+
+
+
+
+
+
+
+- Development 화면입니다.
+
+  ![cloud.oracle.com](./img/04-monitoring-adw/06.png)
+
+
 
 
 
