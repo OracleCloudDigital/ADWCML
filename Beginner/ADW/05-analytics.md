@@ -1,6 +1,6 @@
 ![oracle-auto](./img/oracle-auto.png)
 
-# 05 - Analytics : 이제 분석을 해볼까요?
+# 05 Analytics : 이제 분석을 해볼까요?
 
 ## 실습 소개
 

@@ -2,7 +2,7 @@
 
 
 
-# 06 - Machine Learning :  머신러닝 맛을 봅시다.
+# 06 Machine Learning :  머신러닝 맛을 봅시다.
 
 ## 실습 소개
 
