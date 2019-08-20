@@ -1,9 +1,6 @@
----
-typora-root-url: ../ADW
+![](https://github.com/hajekim/ADWCML/tree/master/Beginner/ADW/images/oracle-auto.png)
 
----
 
-![oracle-auto](/images/oracle-auto.png)
 
 
 
