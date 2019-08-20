@@ -1,4 +1,4 @@
-![oracle-auto](./img/oracle-auto.png){: .center}
+![oracle-auto](./img/oracle-auto.png)
 
 # 05 - Analytics : 이제 분석을 해볼까요?
 

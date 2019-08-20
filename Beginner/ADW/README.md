@@ -1,4 +1,4 @@
-![oracle-auto](./img/oracle-auto.png){: .center}
+![oracle-auto](./img/oracle-auto.png)
 
 # Oracle Cloud Beginner Class
 
