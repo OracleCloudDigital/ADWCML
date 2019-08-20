@@ -47,9 +47,15 @@
 
 
 
-- Hello World! 오라클 클라우드에 오신 것을 환영합니다!
+- Compartment가 변경된 것을 확인합니다.
 
   ![](./img/01-console/06.png)
 
 
+
+
+
+- Compartment가 변경된 것을 확인합니다.
+
+  ![](./img/02-create-adw/01.png)
 
