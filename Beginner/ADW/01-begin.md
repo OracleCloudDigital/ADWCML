@@ -1,8 +1,4 @@
----
-typora-root-url: ../ADW
----
-
-![oracle-auto](/images/oracle-auto.png)
+![oracle-auto](./images/oracle-auto.png){: .center}
 
 
 
