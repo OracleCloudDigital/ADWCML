@@ -29,7 +29,7 @@ Don't worry! Be Happy! 걱정 하지 마세요. 오라클 자율 운영 데이�
 
 ## 따라하기
 
-- 브라우저에서 **[cloud.oracle.com](https://cloud.oracle.com)**로 이동하여 `Sign In`  아이콘을 클릭합니다.
+- 생성한 Autonomous Data Warehouse 정보 화면에서 `Service Console 을 클릭합니다.
   ![cloud.oracle.com](./img/04-monitoring-adw/01.png)
 
   ![Sign In](./img/00-sign-in/02.png)
