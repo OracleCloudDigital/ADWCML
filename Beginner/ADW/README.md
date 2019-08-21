@@ -30,10 +30,8 @@ ADW를 이용하여 쉽게 분석하는 방법과 머신러닝을 어렵지 않�
 
 
 
-##### 작성 정보
+## 문서 정보
 
-최초 작성자 : 김하제 | Solution Engineer | ODP Tech SE | haje.kim@oracle.com
-
-최초 작성 일자 : 2019년 8월 18일
-
-최종 작성 일자 : 2019년 8월 20일
+- 작성자 : 김하제 | Solution Engineer | ODP Tech SE | haje.kim@oracle.com
+- 최초 작성 일자 : 2019년 8월 18일
+- 최종 작성 일자 : 2019년 8월 20일
