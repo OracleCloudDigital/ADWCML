@@ -54,8 +54,9 @@
 
 - Oracle Cloud Dashboard Console로 돌아옵니다.
   
+
 https://console.eu-frankfurt-1.oraclecloud.com/
-  
+
   ![cloud.oracle.com](./img/07-oac/01.png)
 
 
@@ -287,6 +288,48 @@ https://console.eu-frankfurt-1.oraclecloud.com/
   ![cloud.oracle.com](./img/07-oac/32.png)
 
   
+
+- 하단의 + 버튼을 눌러서 캔버스를 새로 만듭니다.
+
+  ![cloud.oracle.com](./img/07-oac/a-01.png)
+
+  
+
+- 좌측의 데이터 컬럼 중에서 SubCategory와 Expense Amount를 선택합니다.
+  여러 컬럼을 선택하는 것은 Ctrl(Command)을 누른 채 마우스를 왼쪽 버튼을 누릅니다.
+
+  ![cloud.oracle.com](./img/07-oac/a-02.png)
+
+
+
+- 선택된 컬럼을 우측에 Drop Visualization or Data Here 로 드래그 앤 드롭으로 내려줍니다.
+
+  ![cloud.oracle.com](./img/07-oac/a-03.png)
+
+
+
+- Expense Amount by SubCategory 차트가 하나 생겼습니다.
+  서브 카테고리 별로 지출 금액을 알 수 있습니다.
+
+  ![cloud.oracle.com](./img/07-oac/a-04.png)
+
+
+
+- Day of Week과 Budget을 선택하여 동일하게 선택합니다.
+
+  ![cloud.oracle.com](./img/07-oac/a-05.png)
+
+
+
+- 동일하게 드래그 앤 드롭을 합니다. 누른 채 이동해서 Expense Amount by SubCategory 왼쪽으로 이동하면, 파란색 블럭 바가 생성됩니다. 그 상태에서 마우스를 버튼을 놓아줍니다.
+
+  ![cloud.oracle.com](./img/07-oac/a-06.png)
+
+
+
+- Budget by Day of Week이 생성되었습니다. 요일 별로 Budget이 생성되었습니다.
+
+  ![cloud.oracle.com](./img/07-oac/a-07.png)
 
 
 

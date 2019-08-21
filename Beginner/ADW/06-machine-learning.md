@@ -149,11 +149,36 @@
 
 
 
-- 먼저 `Notebooks` 를 선택합니다.
+- 미리 다운로드한 노트북 JSON 파일을 올려봅시다.
+  `Import` 를 선택합니다.
 
   ![Sign In](./img/08-ml-notebook-adw/11.png)
 
+- `Classification_Prediction_Model.json` 을 선택합니다.
+
+  ![Sign In](./img/08-ml-notebook-adw/12.png)
+
+
+
+- 업로드 된 `Classification Prediction Model` 을 선택합니다.
+
+  ![Sign In](./img/08-ml-notebook-adw/13.png)
+
+
+
+
+
+- Classification 알고리즘을 사용한 노트북을 살펴봅니다.
+
+  ![Sign In](./img/08-ml-notebook-adw/14.png)
+
   
+
+  
+
+
+
+
 
 
 
