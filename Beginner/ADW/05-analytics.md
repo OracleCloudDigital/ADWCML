@@ -16,7 +16,7 @@
 
 ## 사전 준비 사항
 
-- [Sample Data Excel File](./file/finance_manager.xlsx)
+- [Sample Data Excel File](./data/finance_manager.xlsx)
 - 오라클 분석 클라우드 (Oracle Analytics Cloud)
 - 자율 운영 데이터 웨어하우스 (Oracle Autonomous Data Warehouse)
 - ~~데이터베이스 지식~~
