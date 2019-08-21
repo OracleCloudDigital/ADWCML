@@ -1,7 +1,5 @@
 ![oracle-auto](./img/oracle-auto.png)
 
-
-
 # 02 Create ADW : 자율 운영 데이터 웨어하우스 만들기
 
 ## 실습 소개

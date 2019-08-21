@@ -1,7 +1,5 @@
 ![oracle-auto](./img/oracle-auto.png)
 
-
-
 # 06 Machine Learning :  머신러닝 맛을 봅시다.
 
 ## 실습 소개

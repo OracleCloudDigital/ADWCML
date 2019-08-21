@@ -1,7 +1,5 @@
 ![oracle-auto](./img/oracle-auto.png)
 
-
-
 # 01 Begin : 오라클 클라우드 시작하기
 
 ## 실습 소개
