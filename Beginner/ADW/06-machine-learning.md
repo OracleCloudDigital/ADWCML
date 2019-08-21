@@ -12,7 +12,7 @@
 
 ## 사전 준비 사항
 
-- [Classification Prediction Model 노트북](./file/Classification_Prediction_Model.json)
+- [Classification Prediction Model 노트북](./data/Classification_Prediction_Model.json)
 
 - 자율 운영 데이터 웨어하우스 (Oracle Autonomous Data Warehouse)
 
