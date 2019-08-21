@@ -16,6 +16,7 @@
 
 ## 사전 준비 사항
 
+- [Sample Data Excel File](./file/finance_manager.xlsx)
 - 오라클 분석 클라우드 (Oracle Analytics Cloud)
 - 자율 운영 데이터 웨어하우스 (Oracle Autonomous Data Warehouse)
 - ~~데이터베이스 지식~~
@@ -387,6 +388,113 @@ https://console.eu-frankfurt-1.oraclecloud.com/
   
 
 
+
+
+
+- 3, 4 분기 당기순이익이 감소하고 있습니다.
+
+  ![cloud.oracle.com](./img/07-oac/44.png)
+
+  
+
+
+
+
+
+- 4분기 운영 비용이 증가하였습니다.
+
+  ![cloud.oracle.com](./img/07-oac/45.png)
+
+  
+
+
+
+
+
+- 국가별로 데이터를 보고 싶어졌어요.
+  상단에 REGION을 선택하여 아무 국가를  선택 후 변경된 대시보드를 볼 수 있습니다.
+  저는 UK 영국을 선택했습니다.
+
+  ![cloud.oracle.com](./img/07-oac/46.png)
+
+  ![cloud.oracle.com](./img/07-oac/47.png)
+
+  ![cloud.oracle.com](./img/07-oac/48.png)
+
+  
+
+
+
+- 비용 캔버스로 이동하였습니다.
+
+  ![img](./img/07-oac/49.png)
+
+
+
+
+
+- 8월부터 목표 대비 실적이 감소하고 있습니다.
+  이 말 뜻은 목표 대비 비용이 증가하고 있다는 뜻이지요. 왜 일까요?
+
+  ![img](./img/07-oac/50.png)
+
+  
+
+
+
+
+
+- 8월부터 출장비가 증가하고 있습니다.
+
+  호텔 비용이 지나치게 늘어났습니다.
+
+  ![img](./img/07-oac/51.png)
+
+  ![img](./img/07-oac/52.png)
+
+  
+
+
+
+
+
+- 그리고 8월부터 전년 대비 인건비가 증가했습니다.
+
+  ![img](./img/07-oac/53.png)
+
+
+
+- 기본급은 감소했어요. 고용 변동이 있었나봐요?
+  그런데 초과 근무 수당은 증가하였습니다.
+
+  ![img](./img/07-oac/54.png)
+
+  
+
+
+
+- 직원수 캔버스로 이동하였습니다.
+
+  ![img](./img/07-oac/55.png)
+
+
+
+
+
+- 7월 전후로 콜센터에서 이직자가 늘었습니다.
+
+  ![img](./img/07-oac/56.png)
+
+
+
+
+
+- 7월 전후로 콜센터 초과 근무 수당이 늘어났네요. 야근이 엄청나게 증가하였네요.
+  퇴사 사유를 살펴 보니 급여, 워라벨, 복리후생 등을 중요하게 생각하고 있어요.
+
+  ![img](./img/07-oac/57.png)
+
+  
 
 
 
